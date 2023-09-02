@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-09-02T15:43:22 IST" name="Default suite" finished-at="2023-09-02T15:43:36 IST" duration-ms="13576">
+    <groups>
+    </groups>
+    <test started-at="2023-09-02T15:43:22 IST" name="Default test" finished-at="2023-09-02T15:43:36 IST" duration-ms="13576">
+      <class name="com.qa.nc.tests.LoginTest">
+        <test-method signature="loginTest()[pri:0, instance:com.qa.nc.tests.LoginTest@5542c4ed]" started-at="2023-09-02T15:43:22 IST" name="loginTest" finished-at="2023-09-02T15:43:29 IST" duration-ms="6451" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method signature="signUpTest()[pri:0, instance:com.qa.nc.tests.LoginTest@5542c4ed]" started-at="2023-09-02T15:43:29 IST" name="signUpTest" finished-at="2023-09-02T15:43:36 IST" duration-ms="7072" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signUpTest -->
+      </class> <!-- com.qa.nc.tests.LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
