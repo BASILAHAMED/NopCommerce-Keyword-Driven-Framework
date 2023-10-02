@@ -7,4 +7,4 @@ nopCommerce is an open-source eCommerce platform based on Microsoft's ASP.NET Co
 1. Login Feature
 2. Registration Feature
    
-Both tests are performed through a keyword-driven or parametrized approach where large datasets from Excel files are passed and verified. 
+Both tests are performed through a **keyword-driven or parametrized approach** where large datasets from Excel files are passed and verified. 
