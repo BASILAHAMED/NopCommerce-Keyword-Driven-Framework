@@ -11,7 +11,7 @@ import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.firefox.FirefoxDriver;
 /**
  * 
- * @author BasilHameed
+ * @author BasilAhamed
  *
  */
 public class Base {
