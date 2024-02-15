@@ -2,7 +2,7 @@
 
 **nopCommerce** is an open-source eCommerce platform based on Microsoft's ASP.NET Core framework and MS SQL Server 2012 backend Database. It provides a catalogue frontend and an administration tool backend, allowing shopping cart creation. 
 
-## Keyword Driven Testing Framework
+## Keyword Driven Testing Framework 
 #### Sample Test Scenarios
 1. Login Feature 
 2. Registration Feature
