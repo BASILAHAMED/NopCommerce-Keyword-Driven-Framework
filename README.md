@@ -8,4 +8,3 @@
 2. Registration Feature
     
 Both tests are performed through a **keyword-driven or parametrized approach** where large datasets from Excel files are passed and verified. 
- 
